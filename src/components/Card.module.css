@@ -71,12 +71,12 @@
 
 @media only screen and (max-width: 480px) {
   .card {
-    width: 160px;
+    width: 260px;
     padding: 10px;
   }
   .card img {
-    width: 130px;
-    height: 130px;
+    width: 210px;
+    height: 210px;
   }
   .card h3{
     font-size: .8rem;
