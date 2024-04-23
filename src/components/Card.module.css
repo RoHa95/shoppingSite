@@ -68,3 +68,17 @@
     width: 170px;
   }
 }
+
+@media only screen and (max-width: 480px) {
+  .card {
+    width: 160px;
+    padding: 10px;
+  }
+  .card img {
+    width: 130px;
+    height: 130px;
+  }
+  .card h3{
+    font-size: .8rem;
+  }
+}
